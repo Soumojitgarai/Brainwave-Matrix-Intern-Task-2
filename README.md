@@ -1,9 +1,6 @@
-# ShopEase E-Commerce Platform
-
-<div align="center">
-  <img src="generated-icon.png" alt="ShopEase Logo" width="120" />
-  <h3>A modern, responsive e-commerce platform built with React and Express</h3>
-</div>
+# Web Development Intern
+## 🌍 Task 2: Create an e-commerce website using CSS, HTML , and JavaScript. You can add any features you can think of.
+![screenshot2](https://github.com/user-attachments/assets/ec8feefd-bb2b-44d9-b8c3-1b4a1055590f)
 
 ## ✨ Features
 
@@ -124,24 +121,3 @@ npm install
 ```bash
 npm run dev
 ```
-
-4. Open your browser and navigate to `http://localhost:5000`
-
-## 📝 Environment Variables
-
-The application uses the following environment variables:
-
-- `DATABASE_URL`: PostgreSQL connection string (optional, in-memory DB used by default)
-- `SESSION_SECRET`: Secret key for session encryption
-- `PORT`: Port number for the server (default: 5000)
-
-## 🙏 Acknowledgements
-
-- [Shadcn UI](https://ui.shadcn.com/) for the beautiful component system
-- [Tailwind CSS](https://tailwindcss.com/) for the utility-first CSS framework
-- [Lucide Icons](https://lucide.dev/) for the icon set
-- [Unsplash](https://unsplash.com/) for product images
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
